@@ -1,0 +1,15 @@
+import canonicalLaneMathlib.AdmissibleClass
+import GraphicsMeshProcessingCanonicalLaneLean.MeshDataStructures
+import GraphicsMeshProcessingCanonicalLaneLean.MeshSimplification
+import GraphicsMeshProcessingCanonicalLaneLean.MeshParameterization
+import GraphicsMeshProcessingCanonicalLaneLean.MeshRemeshing
+import GraphicsMeshProcessingCanonicalLaneLean.MeshDeformation
+import GraphicsMeshProcessingCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace GraphicsMeshProcessingCanonicalLaneLean
+
+-- This module collects all imports for the package.
+
+end GraphicsMeshProcessingCanonicalLaneLean
+end HautevilleHouse
